@@ -4,10 +4,9 @@
       "answers" : [
          "En el Parque Central",
          "En la Avenida Central",
-         "En el Parque Morazán",
-         "En la Plaza de la Cultura"
+         "En el Parque Morazán"
       ],
-      "correctAnswer" : "2"
+      "correctAnswer" : "En la Avenida Central"
 
 
    },
@@ -16,99 +15,89 @@
       "answers" : [
          "En Guanacaste",
          "En Limón",
-         "En Puntarenas",
-         "En Heredia"
+         "En Puntarenas"
       ],
-      "correctAnswer" : "3"
+      "correctAnswer" : "En Puntarenas"
    },
    {
       "question" : "¿Qué evento histórico tuvo lugar el 20 de marzo de 1856?",
       "answers" : [
          "La Batalla de Santa Rosa",
          "La abolición del ejército",
-         "Sufragio femenino",
          "La Batalla de Rivas"
       ],
-      "correctAnswer" : "1"
+      "correctAnswer" : "La Batalla de Santa Rosa"
    },
    {
       "question" : "¿Cuál fue el Presidente de la República de Costa Rica nominado al Premio Nobel de la Paz?",
       "answers" : [
          "Rafael Angel Calderón Guardia",
-         "Carlos Alvarado Quesada",
          "José Figueres Ferrer",
          "Óscar Arias Sánchez"
       ],
-      "correctAnswer" : "1"
+      "correctAnswer" : "Óscar Arias Sánchez"
    },
    {
       "question" : "¿Quién compuso el Himno Nacional de Costa Rica?",
       "answers" : [
          "José María Zeledón Brenes",
-         "Cristian Gómez Vargas",
          "Manuel María Gutiérrez Flores",
          "Lucio Battisti"
       ],
-      "correctAnswer" : "3"
+      "correctAnswer" : "Manuel María Gutiérrez Flores"
    },
    {
       "question" : "¿Cuál es el Ave Nacional de Costa Rica?",
       "answers" : [
          "El pecho amarillo",
          "El colibrí",
-         "El yigüirro",
-         "El quetzal"
+         "El yigüirro"
       ],
-      "correctAnswer" : "3"
+      "correctAnswer" : "El yigüirro"
    },
    {
       "question" : "¿Cuál de los siguientes NO es un Símbolo Nacional de Costa Rica?",
       "answers" : [
          "La Carreta",
-         "La Antorcha",
          "El Manatí",
          "La Fuente de la Hispanidad"
       ],
-      "correctAnswer" : "4"
+      "correctAnswer" : "La Fuente de la Hispanidad"
    },
    {
       "question" : "¿En qué provincia se encuentra el Volcán Irazú?",
       "answers" : [
          "En Guanacaste",
          "En Cartago",
-         "En Puntarenas",
-         "En San José"
+         "En Puntarenas"
       ],
-      "correctAnswer" : "2"
+      "correctAnswer" :"En Cartago"
    },
    {
       "question" : "¿En qué fecha se da la Independencia de Costa Rica?",
       "answers" : [
          "15 de setiembre de 1821",
          "15 de setiembre de 1502",
-         "15 de setiembre de 1912",
-         "15 de setiembre de 1991"
+         "15 de setiembre de 1912"
       ],
-      "correctAnswer" : "1"
+      "correctAnswer" : "15 de setiembre de 1821"
    },
    {
       "question" : "¿En cual Copa del Mundo Costa Rica llegó por primera vez a la fase octavos de final?",
       "answers" : [
          "Brasil 2014",
          "Alemania 2006",
-         "Italia 1990",
-         "Corea - Japon 2002"
+         "Italia 1990"
       ],
-      "correctAnswer" : "3"
+      "correctAnswer" : "Italia 1990"
    },
    {
       "question" : "¿En cual Copa del Mundo Costa Rica llegó por primera vez a la fase cuartos de final?",
       "answers" : [
          "Brasil 2014",
          "Alemania 2006",
-         "Italia 1990",
-         "Corea - Japon 2002"
+         "Italia 1990"
       ],
-      "correctAnswer" : "1"
+      "correctAnswer" : "Brasil 2014"
    }
 ]

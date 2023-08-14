@@ -16,4 +16,5 @@ export class AppHome implements OnInit {
       this.router.navigate(['/game']);
     });
   }
+  
 }
