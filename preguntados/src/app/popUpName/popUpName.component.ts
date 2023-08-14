@@ -12,12 +12,14 @@ import { MatDialogRef } from '@angular/material/dialog';
     }
     ngOnInit(): void {
         this.init();
+        
     }
     async init() { 
         document.getElementById("play")?.addEventListener('click', evt => { 
             this.play();
             
-        })       
+        })
+            
     }
     play():void{
         //Required to look for NUll elements in the player name                    
